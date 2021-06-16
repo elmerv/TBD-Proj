@@ -1,2 +1,2 @@
 # TBD-Proj
-This project is TBD, but I tihnk 
+This project is TBD, but I think.
